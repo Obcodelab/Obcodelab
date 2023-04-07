@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aystar19
+- 👋 Hi, I’m @OB
 - 👀 I’m interested in logical projects
 - 🌱 I’m currently learning front end development and python
 - 💞️ I’m looking to collaborate on python and javascript projects
