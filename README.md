@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OB
 - 👀 I’m interested in logical projects
-- 🌱 I’m currently learning front end development and python(data science)
-- 💞️ I’m looking to collaborate on python and javascript projects
+- 🌱 I’m currently learning blockchain development and python(data science & backend development)
+- 💞️ I’m looking to collaborate on python and rust projects
 - 📫 How to reach me on whatsapp: +2348101331527 or email: obcodelab1@gmail.com
 
 <!---
